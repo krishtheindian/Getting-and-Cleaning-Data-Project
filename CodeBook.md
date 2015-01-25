@@ -1,6 +1,6 @@
 # Prepare Tidy Data Project Code Book
 The purpose of this project to collect, work with and clean a dataset for further use.
-The data from Human Activity Recognition Using Smartphones Data Set from UCI is used. Data collected from 30 subjects performing 6 daily activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying). 
+The data from `Human Activity Recognition Using Smartphones Data Set` from `UCI` is used. Data is collected from 30 subjects performing 6 daily activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying). 
 
 ## Steps Involved
 A tidy dataset is achieved by performing the steps listed below in the `run_analysis.R`:
